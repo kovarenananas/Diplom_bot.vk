@@ -1,0 +1,3 @@
+psycopg2==2.9.5
+SQLAlchemy==1.4.44
+vk-api==11.9.9
